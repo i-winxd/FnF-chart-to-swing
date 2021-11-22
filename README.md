@@ -1,4 +1,6 @@
 # Chart to swing converter
+As seen in https://twitter.com/i_winxd/status/1462220493558366214
+
 A program written in python that converts a chart from 4/4 time to 6/8 time a.k.a. from steady tempo to swing tempo.
 
 ## How do I use this?
