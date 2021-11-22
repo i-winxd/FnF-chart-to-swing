@@ -13,7 +13,10 @@ Prerequisites:
 5. Type ``cd <the file directory of where you put that .py file in>``. Alternatively, in Windows' file explorer, navigate to the folder where you have that ``.py`` file in, click on the 'address bar', and type ``cmd``. Has the same effect as ``cd <whatever>``.
 6. **IF YOU HAVE NOT INSTALLED PYTHON YET:** Type ``python`` in the command line. The Windows 10 Microsoft store will prompt you to install python. Sometimes, if you have python installed, it may not be installed to your command prompt.
 7. Type ``python chart_to_swing.py <THE CHART YOU WANT TO CONVERT>`` in the command line, where ``<THE CHART YOU WANT TO CONVERT>`` is the file name of the chart you want to convert. The file should be in the same directory as the ``.py`` file you downloaded, or in a folder of that directory, then your file name becomes ``<the folder within the folder of your .py file>/<THE CHART YOU WANT TO CONVERT>``.
-8. In the same directory of your ``.py`` file, a new ``.json`` file with the name``<NAME OF YOUR SONG>-swing.json`` should pop up. That is your converted file. Note that the name of the song is based on the song name in the chart, not the file name of the original ``json``.
+
+FOR EXAMPLE: I want to convert the json named ``madness-hard.json`` to swing. I will type in the command prompt ``python chart_to_swing.py madness-hard.json``.
+
+9. In the same directory of your ``.py`` file, a new ``.json`` file with the name``<NAME OF YOUR SONG>-swing.json`` should pop up. That is your converted file. Note that the name of the song is based on the song name in the chart, not the file name of the original ``json``.
 
 **IMPORTANT: IF THE CHART YOU WANT TO CONVERT CONTAINS THE WORD 'swing' ANYWHERE IN IT (all lowercase) IT WILL DO A REVERSE CONVERSION (FROM SWING TO REGULAR TEMPO)**
 *This will obviously not work if your song has tempo changes, even if you have BPM changes integrated with the chart.*
