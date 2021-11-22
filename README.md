@@ -14,6 +14,7 @@ Prerequisites:
 8. In the same directory of your ``.py`` file, a new ``.json`` file with the name``<NAME OF YOUR SONG>-swing.json`` should pop up. That is your converted file. Note that the name of the song is based on the song name in the chart, not the file name of the original ``json``.
 
 **IMPORTANT: IF THE CHART YOU WANT TO CONVERT CONTAINS THE WORD 'swing' ANYWHERE IN IT (all lowercase) IT WILL DO A REVERSE CONVERSION (FROM SWING TO REGULAR TEMPO)**
+*This will obviously not work if your song has tempo changes, even if you have BPM changes integrated with the chart.*
 
 I couldn't package this to an EXE file because I didn't have time to learn how to do that. Someone please make a pull request telling me how to.
 ## Okay. How do I put the audio in swing tempo?
