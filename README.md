@@ -11,7 +11,7 @@ Prerequisites:
 3. Drag your ``.json`` chart into the directory I just mentioned.
 4. Whip up command prompt by typing ``cmd`` in the start menu.
 5. Type ``cd <the file directory of where you put that .py file in>``. Alternatively, in Windows' file explorer, navigate to the folder where you have that ``.py`` file in, click on the 'address bar', and type ``cmd``. Has the same effect as ``cd <whatever>``.
-6. **IF YOU HAVE NOT INSTALLED PYTHON YET:** Type ``python`` in the command line. The Windows 10 Microsoft store will prompt you to install python. Sometimes, if you have python installed, it may not be installed to your command prompt.
+6. **IF AND ONLY IF (IFF) YOU HAVE NOT INSTALLED PYTHON YET:** Type ``python`` in the command line. The Windows 10 Microsoft store will prompt you to install python. Sometimes, if you have python installed, it may not be installed to your command prompt.
 7. Type ``python chart_to_swing.py <THE CHART YOU WANT TO CONVERT>`` in the command line, where ``<THE CHART YOU WANT TO CONVERT>`` is the file name of the chart you want to convert. The file should be in the same directory as the ``.py`` file you downloaded, or in a folder of that directory, then your file name becomes ``<the folder within the folder of your .py file>/<THE CHART YOU WANT TO CONVERT>``.
 
 FOR EXAMPLE: I want to convert the json named ``madness-hard.json`` to swing. I will type in the command prompt ``python chart_to_swing.py madness-hard.json``.
