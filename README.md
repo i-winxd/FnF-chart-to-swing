@@ -27,4 +27,5 @@ Please credit/cite if you're using this / taking any of the source code!!! It le
 
 ## Other stuff I've made:
 https://github.com/i-winxd/SNIFF - A fork of a FnF midi to chart converter that supports Kade/Psych engine parameters.
+
 https://github.com/i-winxd/FnF-Spritesheet-to-PNG-seq - A tool that converts a Friday Night Funkin' sprite sheet into an image sequence, which you can then use with EzGif to create a gif out of it.
