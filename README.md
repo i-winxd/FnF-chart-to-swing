@@ -29,7 +29,7 @@ Watch this tutorial: https://www.youtube.com/watch?v=FURoa6NKQIo
 You can make a pull request if you want to contribute to this.
 
 ## Licensing
-Please credit/cite if you're using this / taking any of the source code!!! It lets other know of this (very cool) utility!!
+Please credit taking any of the source code!!! It lets other know of this (very cool) utility!!
 
 ## Other stuff I've made:
 https://github.com/i-winxd/SNIFF - A fork of a FnF midi to chart converter that supports Kade/Psych engine parameters.
