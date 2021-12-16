@@ -24,6 +24,7 @@ FOR EXAMPLE: I want to convert the json named ``madness-hard.json`` to swing. I 
 I couldn't package this to an EXE file because I didn't have time to learn how to do that. Someone please make a pull request telling me how to.
 ## Okay. How do I put the audio in swing tempo?
 Watch this tutorial: https://www.youtube.com/watch?v=FURoa6NKQIo
+You can also use NewTime's shift markers.
 
 ## Contributions
 You can make a pull request if you want to contribute to this.
