@@ -2,9 +2,10 @@
 
 """
 
+import easygui
 import json
 import math
-import sys
+# import sys
 
 
 def convert(file: str) -> None:
@@ -223,5 +224,8 @@ def from_swing(beat_count: float) -> float:
     return new_beat
 
 
-cmdline = ' '.join(sys.argv[1:])
-convert(cmdline)
+if __name__ == '__main__':
+    path = easygui.fileopenbox(msg='Select the *.json file you want to open.',
+                               filetypes=["*.json"])
+    # cmdline = ' '.join(sys.argv[1:])
+    convert(path)
