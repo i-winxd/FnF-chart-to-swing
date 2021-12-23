@@ -4,9 +4,11 @@ As seen in https://twitter.com/i_winxd/status/1462220493558366214
 A program written in python that converts a chart from 4/4 time to 6/8 time a.k.a. from steady tempo to swing tempo.
 
 ## How do I use this?
+Download the executable and choose the .json file it prompts you to open. If you don't like running executables, follow the steps below:
+
 Prerequisites:
 * A windows 10 computer (I don't know how this works for mac users but if you've ran a python app before you'll likely know how)
-1. Download the ``.py`` file.
+1. Download the ``.py`` file (in the main branch).
 2. Drag it into the folder of your choice. I will be assuming you're dragging it into ``C:\Users\<YOUR NAME>\Documents\swing_playground``
 3. Drag your ``.json`` chart into the directory I just mentioned.
 4. Whip up command prompt by typing ``cmd`` in the start menu.
