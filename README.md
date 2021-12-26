@@ -6,6 +6,8 @@ A program written in python that converts a chart from 4/4 time to 6/8 time a.k.
 ## How do I use this?
 Prerequisites:
 * A windows 10 computer (I don't know how this works for mac users but if you've ran a python app before you'll likely know how)
+Download the exe file and run it. It will prompt you to select a chart. Choose it, and it will spit out the converted chart in the same directory as the .exe file.
+
 1. Download the ``.py`` file.
 2. Drag it into the folder of your choice. I will be assuming you're dragging it into ``C:\Users\<YOUR NAME>\Documents\swing_playground``
 3. Drag your ``.json`` chart into the directory I just mentioned.
